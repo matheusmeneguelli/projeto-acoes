@@ -1,8 +1,15 @@
 # Projeto de Monitoramento de ações
 
+<p align="center">
+  <img src="images/analise-comparativa.png" width="45%" />
+  <img src="images/analise-especifica.png" width="45%" />
+</p>
+
 Este projeto tem como objetivo a construção de um pipeline completo de dados para monitoramento de ações do mercado brasileiro, desde a ingestão via API até a visualização em dashboard interativo.
 
 O fluxo contempla extração, transformação, armazenamento e consumo dos dados, com atualização automática diária.
+
+<img src="images/job-atualizacao.png">
 
 ## Descrição do Projeto
 
